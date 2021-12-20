@@ -1,0 +1,104 @@
+﻿<!-- Hack to push the content abit lower. -->
+<br />
+
+<div class="container">
+     <!-- Buttons to show/hide add form-->
+<div class="pull-right bloat">
+    <button class="btn btn-sm btn-info" ng-hide="showAddRecipeForm" ng-click="ShowAddForm()">Add Recipe</button>
+</div>
+<!-- End Buttons to show/hide add form-->
+
+<!--Add new recipe Input Form-->
+<div class="row" ng-show="showAddRecipeForm">
+    <div class="container">
+        <div class="panel panel-default">
+            <div class="panel-body">
+                <div class="col-md-12">
+                    <h3>Add a new Recipe</h3>
+                    <div class="form-group">
+                        <label for="title">Recipe Title</label>
+                        <input ng-model="newRecipe.name" class="form-control" type="text" name="title" placeholder="Recipe Title" />
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="form-group">
+                        <label for="hopsId">Hops</label>
+                        <select class="form-control" ng-model="selectedHops" ng-options="h.name for h in hops">
+                        </select>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="form-group">
+                        <label for="grainsId">Grains</label>
+                        <select class="form-control" ng-model="selectedGrains" ng-options="g.name for g in grains"></select>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="form-group">
+                        <label for="yeastsId">Yeast</label>
+                        <select class="form-control" ng-model="selectedYeasts" ng-options="y.name for y in yeasts"></select>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="form-group">
+                        <label for="otherIngredientsId">Other Ingredients</label>
+                        <select class="form-control" ng-model="selectedOtherIngredients" ng-options="o.name for o in otherIngredients"></select>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="form-group">
+                        <label for="water">Water</label>
+                        <input ng-model="newRecipe.water" class="form-control" type="text" name="water" placeholder="Starting amount of water in liters" />
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <div class="form-group">
+                        <label for="description">Details</label>
+                        <input ng-model="newRecipe.description" class="form-control" type="text" name="description" placeholder="Recipe Details" />
+                    </div>
+                </div>
+                    <div class="pull-right bloat">
+                        <button class="btn btn-danger" ng-click="ClearRecipe()">Clear</button>
+                        <div ng-show="showAddNewRecipe">
+                            <button class="btn btn-success" ng-click="Submit(newRecipe)">Send</button>
+                        </div>
+                        <div ng-show="showEditRecipe">
+                            <button class="btn btn-success" ng-click="Edit(newRecipe)">Send</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End add new recipe -->
+
+<!--Show a list of all recipes CARD -->
+<div class="container">
+    <div class="row">
+        <hr />  
+        <h1 class="col-lg-offset-3">List of Brew Recipes</h1>
+        <hr />
+        <div ng-repeat="r in recipes" class="col-md-6 col-md-offset-2">
+            <div class="panel panel-default bootcards-richtext">
+                <div class="panel-heading">
+                    <h3>{{r.name}}</h3>
+                </div>
+                <div class="panel-body">
+                    <h4>Hops:   {{r.hopsName}}</h4>
+                    <h4>Grains:     {{r.grainsName}}</h4>
+                    <h4>Yeast:  {{r.yeastName}}</h4>
+                    <h4>Other Ingredients:  {{r.otherIngName}}</h4>
+                    <h4>Water: {{r.water}} liters</h4>
+                    <hr />
+                    <h4>Brewing details</h4>
+                    <p>{{r.description}}</p>
+                    <hr />
+                </div>
+                <div class="panel-footer">
+                    <small><span class="pull-right">{{r.author}} submitted this recipe: {{r.dateTime | date:'medium'}}</span></small>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BrewDBModelStoreContainer" CdmEntityContainer="BrewDBEntities">
+    <EntitySetMapping Name="BrewType">
+      <EntityTypeMapping TypeName="BrewDBModel.BrewType">
+        <MappingFragment StoreEntitySet="BrewType">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="type" ColumnName="type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Comments">
+      <EntityTypeMapping TypeName="BrewDBModel.Comments">
+        <MappingFragment StoreEntitySet="Comments">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="postId" ColumnName="postId" />
+          <ScalarProperty Name="comment" ColumnName="comment" />
+          <ScalarProperty Name="authorId" ColumnName="authorId" />
+          <ScalarProperty Name="dateTime" ColumnName="dateTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Grains">
+      <EntityTypeMapping TypeName="BrewDBModel.Grains">
+        <MappingFragment StoreEntitySet="Grains">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="country" ColumnName="country" />
+          <ScalarProperty Name="description" ColumnName="description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="otherIngredients">
+      <EntityTypeMapping TypeName="BrewDBModel.otherIngredients">
+        <MappingFragment StoreEntitySet="otherIngredients">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="description" ColumnName="description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Posts">
+      <EntityTypeMapping TypeName="BrewDBModel.Posts">
+        <MappingFragment StoreEntitySet="Posts">
+          <ScalarProperty Name="categoryName" ColumnName="categoryName" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="body" ColumnName="body" />
+          <ScalarProperty Name="categoryId" ColumnName="categoryId" />
+          <ScalarProperty Name="authorId" ColumnName="authorId" />
+          <ScalarProperty Name="dateTime" ColumnName="dateTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Yeasts">
+      <EntityTypeMapping TypeName="BrewDBModel.Yeasts">
+        <MappingFragment StoreEntitySet="Yeasts">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="country" ColumnName="country" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="temperature" ColumnName="temperature" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Category">
+      <EntityTypeMapping TypeName="BrewDBModel.Category">
+        <MappingFragment StoreEntitySet="Category">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Hops">
+      <EntityTypeMapping TypeName="BrewDBModel.Hops">
+        <MappingFragment StoreEntitySet="Hops">
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="country" ColumnName="country" />
+          <ScalarProperty Name="acid" ColumnName="acid" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Authors">
+      <EntityTypeMapping TypeName="BrewDBModel.Authors">
+        <MappingFragment StoreEntitySet="Authors">
+          <ScalarProperty Name="modified" ColumnName="modified" />
+          <ScalarProperty Name="active" ColumnName="active" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Recipes">
+      <EntityTypeMapping TypeName="BrewDBModel.Recipes">
+        <MappingFragment StoreEntitySet="Recipes">
+          <ScalarProperty Name="dateTime" ColumnName="dateTime" />
+          <ScalarProperty Name="water" ColumnName="water" />
+          <ScalarProperty Name="otherIngName" ColumnName="otherIngName" />
+          <ScalarProperty Name="yeastName" ColumnName="yeastName" />
+          <ScalarProperty Name="grainsName" ColumnName="grainsName" />
+          <ScalarProperty Name="hopsName" ColumnName="hopsName" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="otherIngredientId" ColumnName="otherIngredientId" />
+          <ScalarProperty Name="yeastsId" ColumnName="yeastsId" />
+          <ScalarProperty Name="grainsId" ColumnName="grainsId" />
+          <ScalarProperty Name="hopsId" ColumnName="hopsId" />
+          <ScalarProperty Name="rating" ColumnName="rating" />
+          <ScalarProperty Name="authorId" ColumnName="authorId" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ClubMembers">
+      <EntityTypeMapping TypeName="BrewDBModel.ClubMembers">
+        <MappingFragment StoreEntitySet="ClubMembers">
+          <ScalarProperty Name="memberId" ColumnName="memberId" />
+          <ScalarProperty Name="clubId" ColumnName="clubId" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Clubs">
+      <EntityTypeMapping TypeName="BrewDBModel.Clubs">
+        <MappingFragment StoreEntitySet="Clubs">
+          <ScalarProperty Name="leaderId" ColumnName="leaderId" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ClubComments">
+      <EntityTypeMapping TypeName="BrewDBModel.ClubComments">
+        <MappingFragment StoreEntitySet="ClubComments">
+          <ScalarProperty Name="dateTime" ColumnName="dateTime" />
+          <ScalarProperty Name="authorId" ColumnName="authorId" />
+          <ScalarProperty Name="comment" ColumnName="comment" />
+          <ScalarProperty Name="postId" ColumnName="postId" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ClubPosts">
+      <EntityTypeMapping TypeName="BrewDBModel.ClubPosts">
+        <MappingFragment StoreEntitySet="ClubPosts">
+          <ScalarProperty Name="clubId" ColumnName="clubId" />
+          <ScalarProperty Name="categoryName" ColumnName="categoryName" />
+          <ScalarProperty Name="dateTime" ColumnName="dateTime" />
+          <ScalarProperty Name="authorId" ColumnName="authorId" />
+          <ScalarProperty Name="categoryId" ColumnName="categoryId" />
+          <ScalarProperty Name="body" ColumnName="body" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

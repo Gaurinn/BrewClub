@@ -1,0 +1,720 @@
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\ApplicationInsights.config
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\roslyn\csc.exe
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\roslyn\System.Collections.Immutable.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\roslyn\System.Reflection.Metadata.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\roslyn\vbc.exe
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\roslyn\VBCSCompiler.exe
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\roslyn\VBCSCompiler.exe.config
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\BrewClub.dll.config
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\BrewClub.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\BrewClub.pdb
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Antlr3.Runtime.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\EntityFramework.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\EntityFramework.SqlServer.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.DependencyCollector.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.Web.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.WindowsServer.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.ApplicationInsights.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Google.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.Web.Infrastructure.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Newtonsoft.Json.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Owin.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Net.Http.Formatting.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Web.Helpers.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.Owin.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.WebHost.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Web.Mvc.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Web.Optimization.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Web.Razor.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Deployment.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Razor.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\WebGrease.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.DependencyCollector.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.Web.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.WindowsServer.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.ApplicationInsights.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Newtonsoft.Json.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Net.Http.Formatting.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Web.Helpers.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.WebHost.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Web.Mvc.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Web.Optimization.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Web.Razor.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Deployment.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Razor.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Antlr3.Runtime.pdb
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\EntityFramework.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\EntityFramework.SqlServer.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Google.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.Owin.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\obj\Debug\BrewClub.csprojResolveAssemblyReference.cache
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\obj\Debug\BrewClub.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\obj\Debug\BrewClub.pdb
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\ApplicationInsights.config
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\roslyn\csc.exe
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\roslyn\vbc.exe
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\roslyn\VBCSCompiler.exe
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\BrewClub.dll.config
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\BrewClub.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\BrewClub.pdb
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Antlr3.Runtime.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\EntityFramework.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\EntityFramework.SqlServer.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.AI.Web.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.Owin.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.Owin.Security.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Newtonsoft.Json.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Owin.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Net.Http.Formatting.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Web.Helpers.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Web.Http.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Web.Http.Owin.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Web.Http.WebHost.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Web.Mvc.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Web.Optimization.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Web.Razor.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Web.WebPages.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Web.WebPages.Razor.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\WebGrease.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.AI.Web.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.ApplicationInsights.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Newtonsoft.Json.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Net.Http.Formatting.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Web.Helpers.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Web.Http.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Web.Http.WebHost.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Web.Mvc.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Web.Optimization.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Web.Razor.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Web.WebPages.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Web.WebPages.Razor.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Antlr3.Runtime.pdb
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\EntityFramework.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\EntityFramework.SqlServer.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.Owin.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.Owin.Security.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\bin\System.Web.Http.Owin.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\obj\Debug\BrewClub.csprojResolveAssemblyReference.cache
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\obj\Debug\BrewClub.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\obj\Debug\BrewClub.pdb
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\ApplicationInsights.config
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\csc.exe
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\System.Collections.Immutable.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\System.Reflection.Metadata.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\vbc.exe
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\VBCSCompiler.exe
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\VBCSCompiler.exe.config
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\BrewClub.dll.config
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\BrewClub.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\BrewClub.pdb
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Antlr3.Runtime.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\EntityFramework.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\EntityFramework.SqlServer.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.DependencyCollector.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.Web.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.WindowsServer.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.ApplicationInsights.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Google.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Web.Infrastructure.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Newtonsoft.Json.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Owin.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Net.Http.Formatting.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Helpers.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.Owin.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.WebHost.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Mvc.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Optimization.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Razor.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Deployment.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Razor.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\WebGrease.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.DependencyCollector.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.Web.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.WindowsServer.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.ApplicationInsights.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Newtonsoft.Json.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Net.Http.Formatting.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Helpers.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.WebHost.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Mvc.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Optimization.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Razor.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Deployment.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Razor.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Antlr3.Runtime.pdb
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\EntityFramework.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\EntityFramework.SqlServer.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Google.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.Owin.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\obj\Debug\BrewClub.csprojResolveAssemblyReference.cache
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\obj\Debug\BrewClub.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub\BrewClub\obj\Debug\BrewClub.pdb
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\ApplicationInsights.config
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\roslyn\csc.exe
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\roslyn\vbc.exe
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\roslyn\VBCSCompiler.exe
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\BrewClub.dll.config
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\BrewClub.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\BrewClub.pdb
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Antlr3.Runtime.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\EntityFramework.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\EntityFramework.SqlServer.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.Web.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Newtonsoft.Json.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Owin.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Net.Http.Formatting.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Web.Helpers.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.Owin.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.WebHost.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Web.Mvc.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Web.Optimization.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Web.Razor.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Razor.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\WebGrease.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.Web.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.ApplicationInsights.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Newtonsoft.Json.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Net.Http.Formatting.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Web.Helpers.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.WebHost.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Web.Mvc.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Web.Optimization.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Web.Razor.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Razor.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Antlr3.Runtime.pdb
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\EntityFramework.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\EntityFramework.SqlServer.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.Owin.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\obj\Debug\BrewClub.csprojResolveAssemblyReference.cache
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\obj\Debug\BrewClub.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (5)\BrewClub\BrewClub\BrewClub\obj\Debug\BrewClub.pdb
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\ApplicationInsights.config
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\csc.exe
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\vbc.exe
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\VBCSCompiler.exe
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\BrewClub.dll.config
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\BrewClub.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\BrewClub.pdb
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Antlr3.Runtime.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\EntityFramework.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\EntityFramework.SqlServer.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.Web.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Newtonsoft.Json.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Owin.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Net.Http.Formatting.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Helpers.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.Owin.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.WebHost.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Mvc.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Optimization.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Razor.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Razor.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\WebGrease.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.Web.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.ApplicationInsights.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Newtonsoft.Json.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Net.Http.Formatting.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Helpers.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.WebHost.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Mvc.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Optimization.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Razor.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Razor.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Antlr3.Runtime.pdb
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\EntityFramework.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\EntityFramework.SqlServer.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.Owin.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\obj\Debug\BrewClub.csprojResolveAssemblyReference.cache
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\obj\Debug\BrewClub.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub (7)\BrewClub\BrewClub\BrewClub\obj\Debug\BrewClub.pdb
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\ApplicationInsights.config
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\csc.exe
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\System.Collections.Immutable.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\System.Reflection.Metadata.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\vbc.exe
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\VBCSCompiler.exe
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\roslyn\VBCSCompiler.exe.config
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\BrewClub.dll.config
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\BrewClub.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\BrewClub.pdb
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Antlr3.Runtime.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\EntityFramework.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\EntityFramework.SqlServer.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.DependencyCollector.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.Web.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.WindowsServer.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.ApplicationInsights.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Google.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Web.Infrastructure.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Newtonsoft.Json.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Owin.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Net.Http.Formatting.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Helpers.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.Owin.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.WebHost.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Mvc.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Optimization.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Razor.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Deployment.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Razor.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\WebGrease.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.DependencyCollector.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.Web.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.WindowsServer.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.ApplicationInsights.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Newtonsoft.Json.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Net.Http.Formatting.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Helpers.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.WebHost.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Mvc.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Optimization.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Razor.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Deployment.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Razor.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Antlr3.Runtime.pdb
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\EntityFramework.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\EntityFramework.SqlServer.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Google.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.Owin.xml
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\obj\Debug\BrewClub.csprojResolveAssemblyReference.cache
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\obj\Debug\BrewClub.dll
+D:\SKY\NTVandri\BrewClub\BrewClub\BrewClub (7)\BrewClub\BrewClub\BrewClub\obj\Debug\BrewClub.pdb
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\ApplicationInsights.config
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\roslyn\csc.exe
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\roslyn\vbc.exe
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\roslyn\VBCSCompiler.exe
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\BrewClub.dll.config
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\BrewClub.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\BrewClub.pdb
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Antlr3.Runtime.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\EntityFramework.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\EntityFramework.SqlServer.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.Web.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Newtonsoft.Json.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Owin.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Net.Http.Formatting.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Web.Helpers.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.Owin.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.WebHost.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Web.Mvc.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Web.Optimization.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Web.Razor.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Razor.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\WebGrease.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.Web.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.ApplicationInsights.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Newtonsoft.Json.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Net.Http.Formatting.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Web.Helpers.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.WebHost.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Web.Mvc.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Web.Optimization.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Web.Razor.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Razor.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Antlr3.Runtime.pdb
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\EntityFramework.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\EntityFramework.SqlServer.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.Owin.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\obj\Debug\BrewClub.csprojResolveAssemblyReference.cache
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\obj\Debug\BrewClub.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\obj\Debug\BrewClub.pdb
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\obj\Debug\BrewClub.csprojResolveAssemblyReference.cache
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\obj\Debug\BrewClub.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\obj\Debug\BrewClub.pdb
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\ApplicationInsights.config
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\csc.exe
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\vbc.exe
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\VBCSCompiler.exe
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\BrewClub.dll.config
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\BrewClub.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\BrewClub.pdb
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Antlr3.Runtime.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\EntityFramework.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\EntityFramework.SqlServer.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.Web.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Newtonsoft.Json.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Owin.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Net.Http.Formatting.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Helpers.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.Owin.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.WebHost.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Mvc.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Optimization.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Razor.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Razor.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\WebGrease.dll
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.Web.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.ApplicationInsights.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Newtonsoft.Json.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Net.Http.Formatting.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Helpers.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.WebHost.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Mvc.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Optimization.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Razor.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.WebPages.Razor.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Antlr3.Runtime.pdb
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\EntityFramework.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\EntityFramework.SqlServer.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fullsail\Desktop\NTV\Lokaverkefni\BrewClub\BrewClub\BrewClub\BrewClub\bin\System.Web.Http.Owin.xml

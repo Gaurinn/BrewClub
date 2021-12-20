@@ -1,0 +1,27 @@
+﻿<!-- Hack to push the content abit lower. -->
+<br />
+<!-- End -->
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>List of grains</h1>
+
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th class="col-md-2">Name</th>
+                        <th class="col-md-2">Country of origin</th>
+                        <th class="col-md-4">Description</th>
+                    </tr>
+                </thead>
+                <tbody ng-repeat="g in Grains">
+                    <tr>
+                        <td class="col-md-2">{{g.name}}</td>
+                        <td class="col-md-2">{{g.country}}</td>
+                        <td class="col-md-2">{{g.description}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

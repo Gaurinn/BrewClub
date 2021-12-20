@@ -1,0 +1,75 @@
+﻿<div class="green-background ">
+    <div class="container">
+        <div class="row">
+            <div class="heading">
+                <div class="col-md-8 col-md-offset-4">
+                    <div class="large-text">
+                        My Brew Club
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Hack to push the content abit lower. -->
+<br />
+<!-- End -->
+
+<div class="container">
+    <!-- Buttons to show/hide add form-->
+    <div class="pull-right bloat">
+        <button class="btn btn-sm btn-info" ng-hide="showAddClubForm" ng-click="ShowAddForm()">Create a Club</button>
+    </div>
+    <!-- End Buttons to show/hide add form-->
+    <!--Add new club Input Form-->
+    <div class="row" ng-show="showAddClubForm">
+        <div class="container">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="col-md-12">
+                        <h3>Create a new Brew Club</h3>
+                        <div class="form-group">
+                            <label for="name">Club Name</label>
+                            <input ng-model="newClub.name" class="form-control" type="text" name="name" placeholder="Club Name" />
+                        </div>
+                    </div>
+
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <label for="description">Club Description</label>
+                            <textarea ng-model="newClub.description" class="form-control" rows="3" placeholder="Club Description"> </textarea>
+                        </div>
+                        <div class="pull-right bloat">
+                            <button class="btn btn-danger" ng-click="ClearClub()">Clear</button>
+                            <div ng-show="showAddNewClub">
+                                <button class="btn btn-success" ng-click="Submit(newClub)">Send</button>
+                            </div>
+                            <div ng-show="showEditClub">
+                                <button class="btn btn-success" ng-click="Edit(newClub)">Send</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End add new club
+        <!--Display all Clubs-->
+    <div class="row">
+        <div class="col-md-12">
+            <div class="panel panel-default" ng-repeat="c in clubs">
+                <div class="panel-body">
+                    <h4><a href="#/myclub/{{c.Id}}"> {{c.name}} </a></h4>
+                    <div ng-show="CheckAuthor(c.memberId)"><button class="btn btn-info" ng-click="ShowEditForm(c)">Edit</button> <button class="btn btn-danger" ng-click="DeleteClub(c)">Delete</button></div>
+                    <hr />
+                    <div>
+                        {{c.description}}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End display all clubs-->

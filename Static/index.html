@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+<html lang="en" ng-app="brewApp">
+<head>
+    <meta charset="UTF-8">
+    <title>BrewClub.com</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" /> <!--Link to Bootstrap cdn-->
+    <!-- BootCards -->
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootcards/1.0.0/css/bootcards-desktop.min.css">
+
+     <link href="css/style.css" rel="stylesheet" />
+</head>
+<body>
+    <!-- Heading-->
+    <div class="green-background ">
+        <div class="container">
+            <div class="row">
+                <div class="heading">
+                    <div class="col-md-8 col-md-offset-3">
+                        <div class="large-text">
+                            BrewClub.com
+                            <img class="small-logo" src="img/hops1024.jpg" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="gray-background ">
+        <div class="container">
+            <div class="row">
+                <div class="heading">
+                    <div class="col-md-12 col-md-offset-1">
+                        <ul class="nav navbar-nav nav-text-black yellow-background">
+                            <li><a href="#/login">Login</a></li>
+                            <li><a href="#/register">Register</a></li>
+                            <li><a href="#/posts">Posts</a></li>
+                            <li><a href="#/brewtypes">Brew Types</a></li>
+                            <li><a href="#/grains">Grains</a></li>
+                            <li><a href="#/hops">Hops</a></li>
+                            <li><a href="#/yeasts">Yeasts</a></li>
+                            <li><a href="#/otheringredients">Other Ingredients</a></li>
+                            <li><a href="#/recipes">Recipes</a></li>
+                            <li><a href="#/clubs">MyClub</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <!-- Heading End-->
+    <!-- Navigation -->
+    
+    <!-- Navigation End -->
+    
+    
+    <!-- Main site -->
+    <div class="base-background" ng-view>
+
+    </div>
+    <!-- Main site End -->
+
+
+
+    <!-- Bootstrap dependencies jQuery is needed if you want to use bootstraps javascript widgets -->
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js" integrity="sha256-gvQgAFzTH6trSrAWoH1iPo9Xc96QxSZ3feW6kem+O00=" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+    <!-- Angular dependencies -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.js"></script>
+    <script src="https://code.angularjs.org/1.5.0/angular-route.js"></script>
+
+    <!-- Angular App -->
+    <script src="js/app.js"></script>
+    <script src="js/routes.js"></script>
+    <!-- Factories -->
+    <script src="js/factories/posts-factory.js"></script>
+    <script src="js/factories/brewtype-factory.js"></script>
+    <script src="js/factories/grains-factory.js"></script>
+    <script src="js/factories/hops-factory.js"></script>
+    <script src="js/factories/yeasts-factory.js"></script>
+    <script src="js/factories/otherIngredients-factory.js"></script>
+    <script src="js/factories/recipes-factory.js"></script>
+    <script src="js/factories/account-factory.js"></script>
+    <script src="js/factories/category-factory.js"></script>
+    <script src="js/factories/comments-factory.js"></script>
+    <script src="js/factories/clubs-factory.js"></script>
+    <script src="js/factories/clubMembers-factory.js"></script>
+    <script src="js/factories/clubPosts-factory.js"></script>
+    <script src="js/factories/clubComments-factory.js"></script>
+
+    <!-- Controllers  -->
+    <script src="js/controllers/posts-controller.js"></script>
+    <script src="js/controllers/brewtype-controller.js"></script>
+    <script src="js/controllers/grains-controller.js"></script>
+    <script src="js/controllers/hops-controller.js"></script>
+    <script src="js/controllers/yeasts-controller.js"></script>
+    <script src="js/controllers/otherIngredients-controller.js"></script>
+    <script src="js/controllers/recipes-controller.js"></script>
+    <script src="js/controllers/register-controller.js"></script>
+    <script src="js/controllers/login-controller.js"></script>
+    <script src="js/controllers/fposts-controller.js"></script>
+    <script src="js/controllers/fbrewtype-controller.js"></script>
+    <script src="js/controllers/fgrains-controller.js"></script>
+    <script src="js/controllers/category-controller.js"></script>
+    <script src="js/controllers/clubs-controller.js"></script>
+    <script src="js/controllers/clubMembers-controller.js"></script>
+    <script src="js/controllers/myClub-controller.js"></script>
+
+
+
+
+</body>
+</html>

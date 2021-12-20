@@ -1,0 +1,24 @@
+﻿body{
+    background-color: #E0FDC3;
+}
+.green-background {
+    background-color: #003B1B;
+}
+.large-text{
+    font-size:4em;
+    color: #90D234;
+}
+.hovering {
+    background: red;
+    width: 300px;
+}
+.small-logo{
+    margin-top:5px;
+    margin-bottom: 5px;
+    margin-left: -10px;
+    width: 75px;
+}
+.yellow-background {
+    background-color: #90D234;
+    font-size: 1.2em;
+}

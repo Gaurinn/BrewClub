@@ -1,0 +1,25 @@
+﻿<!-- Hack to push the content abit lower. -->
+<br />
+<!-- End -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>List of brew types</h1>
+            <h3>There are many different types of brews</h3>
+            <h5>Coming soon: Detail description of each brew type</h5>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th class="col-md-2">Name</th>
+                    </tr>
+                </thead>
+                <tbody ng-repeat="b in brewTypes">
+                    <tr>
+                        <td class="col-md-2">{{b.type}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

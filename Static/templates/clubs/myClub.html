@@ -1,0 +1,142 @@
+﻿<!--Display selected club-->
+<div class="row">
+    <div class="col-md-6 col-md-offset-3">
+        <div class="panel panel-default">
+            <div class="panel-body">
+                <h4>{{club.name}}<span class="pull-right">Leader:{{club.leaderName}}</span></h4>
+                <div ng-show="CheckAuthor(club.memberId)"><button class="btn btn-info" ng-click="ShowEditForm(c)">Edit</button> <button class="btn btn-danger" ng-click="DeleteClub(c)">Delete</button></div>
+                <hr />
+                <div>
+                    {{club.description}}
+                </div>
+                <hr />
+                <div class="pull-right">
+                    <button class="btn btn-sm btn-info" ng-click="JoinClub(club)">Join Club</button>
+                </div>
+                <div>Club Members: 
+                    <span ng-repeat="m in clubMembers">
+                        {{m.memberName}},  
+                        <span>
+                            <span ng-show="CheckAuthor(club.memberId)"><button class="btn btn-info" ng-click="RemoveMember(m)">Remove</button></span>
+
+                        </span>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--ClubPosts-->
+
+<!-- Hack to push the content abit lower. -->
+<br />
+<!-- End -->
+
+<div class="container">
+    <!-- Buttons to show/hide add form-->
+    <div class="pull-right bloat">
+        <button class="btn btn-sm btn-info" ng-hide="showAddPostForm" ng-click="ShowAddForm()">Add post</button>
+    </div>
+    <!-- End Buttons to show/hide add form-->
+    <!--Add new posts Input Form-->
+    <div class="row" ng-show="showAddPostForm">
+        <div class="container">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="col-md-12">
+                        <h3>Add a new post, a tip, question... anything.</h3>
+                        <div class="form-group">
+                            <label for="title">Title</label>
+                            <input ng-model="newPost.title" class="form-control" type="text" name="title" placeholder="Title" />
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="form-group">
+                            <label for="category">Category</label>
+                            <select class="form-control" ng-model="selectedCategory" ng-options="c.name for c in categories"></select>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+
+                    </div>
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <label for="body">Description</label>
+                            <textarea ng-model="newPost.body" class="form-control" rows="3" placeholder="What are you zinking about?"> </textarea>
+                        </div>
+                        <div class="pull-right bloat">
+                            <button class="btn btn-danger" ng-click="ClearPost()">Clear</button>
+                            <div ng-show="showAddNewPost">
+                                <button class="btn btn-success" ng-click="Submit(newPost)">Send</button>
+                            </div>
+                            <div ng-show="showEditPost">
+                                <button class="btn btn-success" ng-click="Edit(newPost)">Send</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End add new post
+        <!--Display all posts-->
+
+    <div class="row">
+        <div class="col-md-6 col-lg-offset-3">
+            <div class="panel panel-default" ng-repeat="p in clubPosts">
+                <div class="panel-body">
+                    <h4>{{p.title}} <span class="pull-right">Category: {{p.categoryName}}</span></h4>
+                    <div ng-show="CheckAuthor(p.authorId)"><button class="btn btn-info" ng-click="ShowEditForm(p)">Edit</button> <button class="btn btn-danger" ng-click="DeletePost(p)">Delete</button></div>
+                    <hr />
+                    <div>
+                        {{p.body}}
+                    </div>
+                </div>
+                <div class="panel-footer small-text">
+                    Posted By: {{p.author}} <span class="pull-right">{{p.dateTime | date:'medium'}}</span>
+                </div>
+
+                <div ng-repeat="c in p.comments">
+                    {{c.author}} commented: <span class="pull-right">{{c.dateTime | date:'medium'}}</span><div>{{c.clubComments}}</div>
+                </div>
+
+                <hr />
+
+        <!--
+
+                <!--Add comment button-
+                <div class="pull-right bloat">
+                    <button class="btn btn-sm btn-info" ng-hide="showAddCommentForm" ng-click="displayAddComment(p)">Add a comment</button>
+                </div>
+                <!-- End Buttons to show/hide add form-
+                <!--Add new comments Input Form-
+                <div class="row" ng-show="p.showAddCommentForm">
+                    <div class="container">
+                        <div class="panel panel-default">
+                            <div class="panel-body">
+                                <div class="col-md-12">
+                                    <h3>Add a new comment</h3>
+                                    <div class="form-group">
+                                        <label for="comment">Comment</label>
+                                        <input ng-model="newComment.comment" class="form-control" type="text" name="comment" placeholder="Comment" />
+                                    </div>
+                                </div>
+                                <div class="pull-right bloat">
+                                    <button class="btn btn-danger" ng-click="ClearComment()">Clear</button>
+                                    <div ng-show="p.showAddNewComment">
+                                        <button class="btn btn-success" ng-click="SubmitComment(newComment, p)">Send</button>
+                                    </div>
+                                    <div ng-show="p.showEditComment">
+                                        <button class="btn btn-success" ng-click="EditComment(newComment, p)">Send</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>      -->
+            </div>
+        </div>
+    </div>
+</div>
+<!--End display all posts-->

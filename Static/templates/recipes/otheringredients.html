@@ -1,0 +1,27 @@
+﻿<!-- Hack to push the content abit lower. -->
+<br />
+<!-- End -->
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+        </div>
+        <div class="col-md-6">
+            <h1>List of Other Ingredients</h1>
+            <h3>Click ingredient for details</h3>
+            <ul>
+                <li ng-repeat="oI in otherIngredients">
+                    <span data-toggle="collapse" data-target="#{{oI.Id}}">
+                    {{oI.name}}
+                    </span>
+                    <div class="collapse" id="{{oI.Id}}">
+                        <span>
+                            <span class="card card-block">
+                                {{oI.description}}
+                            </span>
+                        </span>
+                    </div>
+                 </li>
+            </ul>
+        </div>
+    </div>
+</div>

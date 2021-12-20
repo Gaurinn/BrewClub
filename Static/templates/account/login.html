@@ -1,0 +1,44 @@
+﻿<div class="container">
+    <div class="row">
+        <div class="col-md-12" ng-show="vError">
+            <div class="panel panel-danger top-margin">
+                <div class="panel-heading">
+                    <h2>Unable to login user!</h2>
+                </div>
+                <div class="panel-body">
+                    <h3>Please check your login data</h3>
+                    <h4>Error code: {{error}}</h4>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12 top-margin">
+            <div class="panel">
+                <div class="panel-body">
+                    <div class="col-md-12">
+                        <h1>Log in to enjoy everything BrewClub.com has to offer</h1>
+                        <hr />
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label>E-Mail</label>
+                            <input ng-model="user.username" type="text" name="name" placeholder="E-mail" class="form-control" />
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label>Password</label>
+                            <input ng-model="user.password" type="password" name="name" placeholder="password" class="form-control"/>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <button class="btn btn-success pull-right" ng-click="Login(user)">Login</button>
+                    </div>
+                    <div class="col-md-12 text-center">
+                        <hr />
+                        <h2><a href="#/register">Or click here to register!</a></h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
